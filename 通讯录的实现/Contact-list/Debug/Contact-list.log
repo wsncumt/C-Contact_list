@@ -1,0 +1,6 @@
+﻿  contact.c
+F:\C语言-GitHub\Contact-list\Contact-list\contact.c(24,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+F:\C语言-GitHub\Contact-list\Contact-list\contact.c(24,9): message : 请考虑在格式字符串中使用“%hd”
+F:\C语言-GitHub\Contact-list\Contact-list\contact.c(68,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+F:\C语言-GitHub\Contact-list\Contact-list\contact.c(68,9): message : 请考虑在格式字符串中使用“%hd”
+  Contact-list.vcxproj -> F:\C语言-GitHub\Contact-list\Debug\Contact-list.exe
